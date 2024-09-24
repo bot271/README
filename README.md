@@ -1,8 +1,4 @@
 # README
-include <iostream>
-
-int main()
-{
-  std:cout << "Hello world";
-  return 0;
-}
+Hi I am Mingze Lee.
+I am currently studying in Tsinghua University, Beijing.
+I hope I would excel in computer programming one day.
